@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://x.com/UnicornPes" target="blank"><img src="https://img.shields.io/twitter/follow/jm_tweets?logo=twitter&style=for-the-badge" alt="jm_tweets" /></a> </p>
 
-- 🔭 I’m currently working on **Goppokotha(A social media site)**
+- 🔭 I’m currently working on **FoodAdda(A Food delivery site)**
 
 - 🌱 I’m currently learning **React**
 
