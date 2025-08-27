@@ -14,8 +14,7 @@
 
 </div>
 
-<img align="right" alt="Coding Ninja" width="400" src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZ6ODhoYWR2M2lyY2M2MDZwMG9xMWp0OGk2NWx3b2cxc2I2eXBmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CchzkJJ6UrQmQ/giphy.gif)">
-
+<img align="right" alt="Coding Ninja" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 ## 🔥 About This Ninja Developer
 
 - 🏆 **Hackathon Conqueror** - 1st Runner-Up at Code for Change 
