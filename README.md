@@ -8,13 +8,11 @@
 
 ### 🚀 About Me
 
-- 🎓 **Computer Applications Student** at Kazi Nazrul University (GPA: 8.75/10)
-- 🔭 Currently building **EzPrepBuddy** - An AI-powered interview platform
 - 🏆 **Hackathon Winner** - 1st Runner-Up at Code for Change
 - 🌱 Exploring **Advanced React Patterns** and **Microservices Architecture**
 - 💡 Passionate about **AI integration** and **real-time applications**
 - 📫 Reach me at **jeet999dev@gmail.com**
-- 🌐 Check out my **[Portfolio](https://yourportfolio.com)**
+- 🌐 Check out my **[Portfolio](https://portfolio.stackzy.tech)**
 
 <br clear="right"/>
 
@@ -54,39 +52,6 @@
   <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🎨 DrawBoard - Real-time Collaborative Canvas
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-🚀 **Scalable microservices platform** with real-time collaboration  
-✨ **Enterprise-grade monorepo** using Turborepo  
-⚡ **High-performance Canvas engine** with custom algorithms  
-🔒 **JWT authentication** with bcrypt & Zod validation  
-
-[🔗 View on GitHub](https://github.com/jeet-mandal/drawboard)
-
----
-
-### 🤖 Hire-me - AI Interview Platform
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-🎯 **AI-driven interview platform** for recruiters and candidates  
-🔐 **OAuth integration** with Google & GitHub  
-📧 **Email verification** and password reset via Resend  
-🧠 **LLM-powered** realistic mock interviews  
-
-[🔗 View on GitHub](https://github.com/jeet-mandal/hire-me) | [🌐 Live Demo](https://your-live-demo.com)
-
-</div>
 
 ## 📊 GitHub Analytics
 
@@ -99,34 +64,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeet-mandal&stroke=ffffff&background=0d1117&ring=A9FEF7&fire=A9FEF7&currStreakNum=ffffff&currStreakLabel=A9FEF7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Jeet's GitHub Streak" />
 </div>
 
-## 🏅 Achievements & Recognition
-
-<div align="center">
-
-| 🏆 Achievement | 📅 Date | 🎯 Details |
-|:---|:---|:---|
-| **Hackathon 1st Runner-Up** | Mar 2025 | Code for Change, NSHM College |
-| **AI Interview Coach** | Mar 2025 | GPT + ElevenLabs STT Integration |
-| **Top Student** | 2023-2027 | GPA: 8.75/10 at KNU |
-
-</div>
 
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio.stackzy.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeet-mandal)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jeetdevx)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeet999dev@gmail.com)
 
 </div>
 
-## 💭 Quote of the Day
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>
 
 ## 🐍 Contribution Graph
 
