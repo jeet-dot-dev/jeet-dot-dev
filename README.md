@@ -14,7 +14,7 @@
 
 </div>
 
-<img align="right" alt="Sharingan Awakening" width="400" src="https://media.giphy.com/media/KztT2c4u8mYYUiMKdJ/giphy.gif">
+<img align="right" alt="Coding Ninja" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ## 🔥 About This Ninja Developer
 
