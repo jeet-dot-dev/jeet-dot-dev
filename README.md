@@ -70,45 +70,7 @@
 
 ---
 
-## 📊 **Ninja Statistics & Battle Records**
 
-<div align="center">
-  
-### 👁️ **Sharingan Analysis**
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeet-mandal&show_icons=true&count_private=true&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=ffffff&bg_color=0d1117&border_radius=10" alt="Jeet's Battle Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeet-mandal&layout=compact&hide_border=true&title_color=DC143C&text_color=ffffff&bg_color=0d1117&border_radius=10" alt="Jutsu Languages" />
-
-### 🔥 **Endless Training Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeet-mandal&stroke=DC143C&background=0d1117&ring=DC143C&fire=B22222&currStreakNum=ffffff&currStreakLabel=DC143C&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=10" alt="Training Streak" />
-
-</div>
-
----
-
-## 🌙 **Special Abilities & Achievements**
-
-<div align="center">
-
-| 👁️ **Mangekyou Sharingan Techniques** | ⚡ **Status** |
-|:---|:---:|
-| Full Stack Development | 🔥 **Active Mastery** |
-| React & Next.js | 👁️ **Sharingan Level** |
-| AI Integration | 🌙 **Evolving Jutsu** |
-| System Architecture | ⚔️ **Battle Tested** |
-| Database Design | 📜 **Scroll Mastered** |
-
-</div>
-
-```
-🍃 "The clan, the village... what does it mean to be human?"
-   - Currently mastering the art of clean code and scalable architectures
-
-💭 Current Mission: Exploring Advanced React Patterns & Microservices
-🎯 Next Target: Becoming a TypeScript Sage
-⚡ Hidden Technique: AI-powered development workflows
-```
-
----
 
 ## 🤝 **Contact This Ninja**
 
